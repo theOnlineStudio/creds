@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"va",
+				"valign	Attr"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"end",
+				"endAnim"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"foin",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"sw",
+				"switchLinkBg2"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bacgr",
+				"background-size"
+			],
+			[
+				"un",
+				"universcondensedlight"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"ip",
+				"screen-ipad-landscape"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"svn:check",
+				"SVN: Checkout…"
+			],
+			[
+				"sv",
+				"SVN: Checkout…"
+			],
+			[
+				"svn",
+				"SVN: Checkout…"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"SVN",
+				"Set Syntax: Java"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"input t",
+				"Snippet: input - text"
+			],
+			[
+				"sni",
+				"Snippet: input - tel"
+			],
+			[
+				"package co",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"html ",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"File: Close All"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 475.0,
+		"history":
+		[
+			"svn://192.168.10.198",
+			"svn://192.168.10.198/tos",
+			"Package Control: Install Package",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Corin/Documents/Training Reference/Ruby/Ex_Files_Ruby_EssT/exercise_files/Chapter05/05_04_ruby_sandbox/argument_defaults.rb",
+		"/Users/Corin/Downloads/config (2).php",
+		"/Volumes/web/owncloud/lib/setup.php",
+		"/Volumes/web/CLIENT SHOW FOLDERS/DESIGNATE/.htaccess",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/QUIETSTORM/CareUK/CUK_Cinema_728x90_v1.3/index.pho.html",
+		"/UK CLIENTS/BERGHIND JOSEPH/BER_GE_W002-5/production/email",
+		"/Volumes/WORK/UK CLIENTS/INCREMENTAL/INC_SEG_O009/production/rich/hpto/overlay.css",
+		"/Volumes/WORK/UK CLIENTS/INCREMENTAL/INC_SEG_O009/production/rich/hpto/index.html",
+		"/Volumes/WORK/UK CLIENTS/INCREMENTAL/INC_SEG_O009/production/rich/hpto/bannerOverlay.js",
+		"/Volumes/MiniMe-1/Sites/SITES/tos/tos/newFile.html",
+		"/Users/Corin/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.sublime-settings",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/GlobalOilSummit/_inc/footer.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/GlobalOilSummit/index.html",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/GlobalOilSummit/_css/desktop.css",
+		"/private/var/folders/zw/ly087rw93xq69t4kx7zm2f800000gn/T/dfa16e1e-4cee-4b60-85c6-bba3ae34c921/home/theonlinestudio/www/contact.php",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/BerghindJoseph/GE/animations/V5/_js/script.js",
+		"/Volumes/WORK/UK CLIENTS/STANLEYS/STN_GOO_E003/production/STN_GOO_E003_v1.2/13-11-13_Google HR_EDM_MASTER AW_001_AH_v1.2/13-11-13_Google HR_EDM_MASTER AW_001_AH_v1.2.html",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/ISOBAR/ISO_GOO_O090/BikeWheelie/crowd_gp_expandable_mobile_640x1136/index-noscale.html",
+		"/Volumes/WORK-2/UK CLIENTS/STANLEYS/STN_GOO_E003/production/13-11-13_Google-HR_EDM-WHISPER_MASTER-AW_AH/13-11-13_Google-HR_EDM-WHISPER_MASTER-AW_AH.html",
+		"/Users/Corin/Desktop/tesy.html",
+		"/Volumes/WORK/UK CLIENTS/STANLEYS/STN_GOO_E003/production/email01/index.html",
+		"/Users/Corin/Desktop/work/stanleys/google email/email01/index.html",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/creds/GENERAL/_js/script.js",
+		"/Users/Corin/Desktop/work/BerghindJoseph/V2/_js/script.js",
+		"/Users/Corin/Desktop/work/BerghindJoseph/V2/_js/circleArrays.js",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/BerghindJoseph/GE/animations/V1/_css/main.css",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/BerghindJoseph/GE/animations/V1/_js/circleArrays.js",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/BerghindJoseph/GE/animations/V2/index.html",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/BerghindJoseph/GE/animations/V1/_js/script.js",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/BerghindJoseph/GE/animations/V1/img/green.svg",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/BerghindJoseph/GE/animations/V1/_js/jquery.easing.1.3.js",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/index.html",
+		"/Users/Corin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/ISOBAR/ISO_GOO_O090/gp_expandable_mobile_640x1136/index.html",
+		"/Volumes/WORK/UK CLIENTS/ISOBAR/ISO_GOO_O090_Motion/assets/Mobile/Assets/1180x664/breakdancer/swipe_1.jpg",
+		"/Volumes/WORK/UK CLIENTS/ISOBAR/ISO_GOO_O090_Motion/assets/Mobile/Assets/1180x664/coffeeHeart/breakDanceQual.html",
+		"/Volumes/WORK/UK CLIENTS/ISOBAR/ISO_GOO_O090_Motion/production/Mobile/Android/Expandable_tablet_v5.2/custom.js",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/ISOBAR/ISO_GOO_O090/V2/index.html",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/ISOBAR/ISO_GOO_O090/V2/main.js",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/ISOBAR/ISO_GOO_O090/V2/custom.css",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/ISOBAR/ISO_GOO_O090/V2/main.css",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/ISOBAR/ISO_GOO_O090/V2/custom.js",
+		"/Users/Corin/Desktop/main_old.js",
+		"/Volumes/MiniMe/Sites/CLIENT SHOW FOLDERS/ISOBAR/ISO_GOO_O090/V2/style.css",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/creds/GENERAL/casestudies/-social/bio_Oil.html",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/creds/GENERAL/index.html",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/creds/GENERAL/casestudies/-social/bioOil.html",
+		"/local sites/SANDBOX/mobBanner/ISO_GOO_O090/swipe__0000_Layer 10.jpg",
+		"/Users/Corin/Desktop/work/glue/google play/HTML 5 Ads/ISO_GOO_O090/style.css",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/creds/CLIENT/langland/casestudies/-rich/mazda.html",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/creds/CLIENT/langland/_js/script.js",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/creds/CLIENT/langland/casestudies/-rich/AA.html",
+		"/Users/Corin/Downloads/head.php",
+		"/local sites/SANDBOX/mobil/test 2/index.html",
+		"/Volumes/MiniMe/Sites/EMAIL/incrimental/theworks/01/index.html",
+		"/Users/Corin/Desktop/test.html",
+		"/Users/Corin/Desktop/updatedTerms.html",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow-arial/_css/main.css",
+		"/Volumes/WORK/UK CLIENTS/LANGLAND/LAN_HUM_E019/Production/HTML/28877_Humira_sales_force_e-newsletter_Sep13_v1.0.html",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/demoGranular.html",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/demoMacro.html",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/_css/main.css",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/vid.html",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/vidTest.html",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/_inc/header.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/_inc/footer.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/flash.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/demoCritical.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/about.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/home.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/_js/main.js",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/request.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/index.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/_css/main.css",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/about_bu.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/_js/main.js",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/about.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/index.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/request.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/_inc/footer.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/nav.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/demoSwitch.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/home.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/demoCritical.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/_inc/header.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/vid/index.html",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/vidTest.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/demoGranular.php",
+		"/Volumes/MiniMe/Sites/SITES/BrandCulture/Platts/cFlow/brainshark.txt",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/brainshark.txt",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/demoGranular.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/login.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/demoMacro.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/demoSwitch.php",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/about.html",
+		"/local sites/SITES/BrandCulture/Platts/p4d/plattsP4d/index.php",
+		"/local sites/SANDBOX/touch/wheel.html",
+		"/local sites/SANDBOX/touch/img-touch-canvas.js",
+		"/local sites/SANDBOX/touch/test.html",
+		"/Users/Corin/Desktop/bookmarks_9_16_13.html",
+		"/Users/Corin/Downloads/FitText.js-master/example.html",
+		"/local sites/SITES/BrandCulture/Platts/cFlow/_css/desktop.css",
+		"/local sites/SITES/BrandCulture/Platts/p4d/plattsp4d.in.theonlinestudio.net/img/icons/success.gif",
+		"/local sites/PHONEGAP/platts/www/_index.html",
+		"/Volumes/MiniMe/Sites/SITES/aa/content/latest/index.html",
+		"/Volumes/MiniMe/Sites/SITES/aa/content/latest/overlay.css",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/live site/theonlinestudio/work.php",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/live site/theonlinestudio/creds/.htaccess",
+		"/Volumes/MiniMe/Sites/SITES/theonlinestudio/live site/theonlinestudio/contact.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#1d2d44",
+			"public",
+			"SIM-only",
+			"655px",
+			"	position: absolute;\n",
+			"svg",
+			"img/",
+			"http://client-approval.com:2222/EMAIL/STANLEYS/GOOGLE/13-11-13_Google-HR_EDM-WHISPER_MASTER-AW_AH/",
+			"img/",
+			"greyContact",
+			"ltBlLn",
+			"col2",
+			"survey",
+			"600",
+			"display:block; display:block",
+			"",
+			">\n",
+			"https://dl.dropboxusercontent.com/u/7243240/email/stanleys/google/E1/",
+			"img/",
+			"	<td width=\"35\" valign=\"top\" align=\"left\"><img src=\"img/ico_gmail.jpg\"></td>\n		<td width=\"295\" valign=\"top\" align=\"left\"><a href=\"#\" \"Gmail\" style=\"color:#000cff; text-decoration:none\">Gmail</a>works on any computer or mobile device so whether you're at  your desk, in a meeting or on a plane, your email is there.</td>\n",
+			"theNav",
+			"Circle",
+			"Orange",
+			"Right,",
+			",Right",
+			"	Left",
+			",Left",
+			"OrangeCircleOne",
+			"circEnd",
+			"ad-exit-button",
+			"expandAd",
+			"endText",
+			"exit",
+			"setExpandingPixelOffsets ",
+			"dis",
+			"dcrmFullScreenSection",
+			"  height: 99px;\n",
+			"  width: 639px;\n",
+			"left",
+			"exit-button",
+			"font",
+			";\n",
+			"univers",
+			"smtxt",
+			"php",
+			"demoSwitch",
+			"display: non",
+			"input .option",
+			"checkbox",
+			"    •   ",
+			"http://s3-eu-west-1.amazonaws.com/tos.brandculture.platts.p4d/videos/P4D_home_722x406_Master",
+			"video",
+			"wide",
+			"text-align",
+			"text-algn",
+			"tinynav",
+			"tiny",
+			"submitBut",
+			"wide",
+			"p.wide",
+			"article",
+			"p.wide",
+			"optIn",
+			"footer",
+			"contentCol",
+			".register",
+			";\n",
+			"p",
+			"line-",
+			"</li>",
+			"  <li>",
+			"</p>\n\n                    <p>",
+			"",
+			"  ",
+			" ",
+			"INPUT",
+			"center bottom",
+			"2s",
+			"fixed",
+			"bg",
+			"back",
+			"float",
+			"url('/",
+			"Require valid-user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"png",
+			"http://client-approval.com:2222/EMAIL/STANLEYS/GOOGLE/13-11-13_Google-HR_EDM-WHISPER_MASTER-AW_AH/",
+			"img/",
+			"http://client-approval.com:2222/EMAIL/STANLEYS/GOOGLE/13-11-13_Google-HR_EDM-WHISPER_MASTER-AW_AH/",
+			"100%",
+			"display:block;",
+			"",
+			"https://dl.dropboxusercontent.com/u/7243240/email/stanleys/google/E1/img/",
+			"",
+			"orange",
+			"'Right',",
+			",'Right'",
+			"	'Left'",
+			",'Left'",
+			"  height: 98px;\n",
+			"  width: 638px;\n",
+			"html",
+			"",
+			"_video/cflow_tag",
+			"</span></li>",
+			"  <li><span>",
+			"</p>\n<p>",
+			" ",
+			"  ",
+			" ",
+			"input",
+			"center center",
+			"1s",
+			"url('../"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 103.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "GeneralCreds.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ma",
+				"_css/main.css"
+			],
+			[
+				"a",
+				"about.php"
+			],
+			[
+				"br",
+				"brainshark.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

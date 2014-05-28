@@ -1,0 +1,367 @@
+/* COLOURS: 
+
+	GREY: #727272
+	PINK: #ec008c
+	
+
+/*
+:::::::::::::::::::
+
+PAGE STYLES 
+ 
+*/
+
+
+
+@font-face {
+    font-family: 'varela_roundregular';
+    src: url('/_fonts/varelaround-regular-webfont.eot');
+    src: url('/_fonts/varelaround-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/_fonts/varelaround-regular-webfont.woff') format('woff'),
+         url('/_fonts/varelaround-regular-webfont.ttf') format('truetype'),
+         url('/_fonts/varelaround-regular-webfont.svg#varela_roundregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+	margin: 0;
+}
+
+
+
+html, body {
+	height: 100%;
+	font-size: 10px;
+	font-smooth:always;
+	background-color: #000;
+	overflow: hidden;
+
+}
+
+
+body{
+	text-rendering: optimizeLegibility;
+	font-weight: 300;
+	color: #FFF; 
+	position: relative;
+		z-index: 1;
+}
+#page{
+	width: 1024px;
+	height: 750px;
+	background-color: #ec008c;
+	border-radius: 20px;
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+    top: 50%; 
+    margin-top: -37.6em;
+    margin-left: -51.2em;
+	font-family: 'varela_roundregular', sans-serif;
+}
+
+h1{
+
+	position: absolute;
+	bottom: -200px;
+	right: 80px;
+	background: url(/_img/logo.png) no-repeat center center;
+	text-indent: 1000%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+h2{
+	color: #fff;
+	font-size: 120px;
+	background: #000;
+	border-radius: 80px;
+	line-height: 120px;
+	margin:200px;
+	display: block;
+	padding: 30px;
+	clear: both;
+	text-align: right;
+
+}
+
+
+p{
+	color: #fff;
+	font-size: 18px;
+	line-height: 26px;
+	display: block;
+	clear: both;
+}
+p.big{
+	color: #000;
+	font-size: 32px;
+	line-height: 32px;
+	text-align: center;
+	margin:30px;
+	display: block;
+	clear: both;
+}
+
+#menu{
+	position:absolute;
+	top: 2%;
+	right:2%;
+	color: #000;
+	font-size: 3em;
+	cursor:pointer;
+}
+#arrows{
+	text-shadow: .5em 0 0 0 black;
+	color: #fff;
+	position: absolute;
+	width: 96%;
+	top: 350px;
+	padding:0 2%;
+	cursor: pointer;
+	font-size: 50px;
+
+}
+#arrows #right{
+	right: 2%;
+	position: absolute;
+
+}
+
+#arrows #left{
+	display: none;
+
+}
+#theNav{
+	position: absolute;
+	bottom: 10px;
+	left:10px;
+	width: 250px;
+	height: 12	00px;
+	z-index: 20;
+}
+#theNav img{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+#navigation{
+
+	list-style: none;
+	position: absolute;
+	bottom:00px;
+	left: 0;
+	bottom: 0px;
+	font-size: 12px;
+	z-index: 300;
+	display: block;
+}
+#navigation ul{
+	width: 250px;
+	display: none;
+	position: absolute;
+	bottom: 35px;
+}
+#navigation ul li{
+	color: #fff;
+	background-color: rgba(0,0,0,0.62);
+	border-radius: 6px;
+	padding: 6px 10px 3px 10px;
+	margin: 3px 0;
+	display: block;
+	cursor: pointer;
+}
+
+#navigation ul li:hover{
+	color: #000;
+	background-color: rgba(255,255,255,1);
+}
+
+/*
+:::::::::::::::::::
+LAYOUT STYLES
+:::::::::::::::::::
+*/
+#page{
+	overflow: hidden;
+	background:url(../_img/weBelieve.png) -900px -120px no-repeat;
+	background-color: #ec008c;
+		background-size: 75%;
+}
+#content{
+position: absolute;
+left: 0;
+	width: 26099px;
+}
+
+#content > *{
+	float: left;
+	width: 924px;
+	margin: 0 50px;
+	height: 560px;
+}
+
+
+.belief, .why{
+	text-align: left;
+	float: left;
+	padding: 280px 40px 0 20px;
+
+}
+
+.belief h3{
+	margin: 0;
+	text-align: left;
+	font-size: 64px;
+	line-height: 77px;
+	display: none;
+	
+}
+.belief p{
+	color: #000;
+	width: 750px;
+	margin: 15px 0;
+	display: none;
+}
+
+/*
+:::::::::::::::::::
+INTRO 
+:::::::::::::::::::
+*/
+
+
+
+.quote{
+	font-family: 'varela_roundregular', sans-serif;
+	color: #FFF;
+	font-size: 32px;
+	line-height: 38px;
+	width: 650px;
+	margin: 150px auto;
+	text-align: center;
+
+}
+ .quotes em{
+	color: #000;
+	font-style: normal;
+	font-size: 1.2em;
+	line-height: 1.5em;
+	margin-top: .6em;
+	display: block;
+}
+
+.why p{
+	font-size: 28px;
+	color: #fff;
+	line-height: 35px;
+	margin-bottom: 40px;
+	width: 840px;
+
+}
+.why h3{
+	margin: -260px 0 30px -46px;
+	font-size: 75px;
+	background-size: 75%;
+	color: #000;
+	line-height: 65px;
+}
+.why p em{
+	color: #000;
+	font-style: normal;
+}
+
+.workingIntro{
+	padding: 40px;
+	margin: 280px auto;
+	text-align: center;
+	width: 400px;
+	font-size: 60px;
+	background-color: #000;
+	border-radius: 70px;
+	color: #fff;
+	
+}
+/* Markete page styles   */
+
+/*
+:::::::::::::::::::
+WORK
+:::::::::::::::::::
+*/
+.caseStudies, about{
+	margin-top: 30px;
+	margin-left: -50px;
+	overflow: hidden;
+	zoom: 1;
+	position: relative;
+}
+.caseStudies .copy{
+float: left;
+	width: 320px;
+	margin-left:60px;
+}
+.about .caseStudies .copy{
+float: left;
+	width: 800px;
+	margin-left:60px;
+
+}
+.about .caseStudies .copy h4{
+float: left;
+	width: 700px;
+	margin-left:60px;
+	margin-bottom: 20px;
+
+}
+.caseStudies h2, .about h2{
+	color: #fff;
+	font-size: 48px;
+	border-radius: 0 40px  40px 0;
+	background-color: #000;
+	line-height: 28px;
+	text-align: left;
+	margin: 0px 0 20px 0px;
+	padding-left: 60px;
+}
+.caseStudies h3, .about h3{
+	color: #000;
+	font-size:50px;
+	line-height: 48px;
+	line-height: 50px;
+	margin-bottom: 10px;
+	text-align: left;
+
+
+}
+.caseStudies h4, .about h4 {
+	color: #000;
+	font-size:22px;
+	line-height: 26px;
+	text-align: left;
+	margin: 10px 0 5px 0;
+
+}
+
+
+
+
+.caseStudies p{
+	color: #fff;
+	font-size:16px;
+	line-height: 19px;
+	text-align: left;
+
+}
+.caseStudies .image{
+	width: 590px;
+	height: 520px;
+	float: right;
+}
+
+
+
+
+
